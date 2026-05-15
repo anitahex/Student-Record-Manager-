@@ -1,4 +1,4 @@
-# Student-Record-Manager- A beginner-friendly Python task to demonstrate your understanding of CRUD operations — Create, Read, Update, and Delete — using only core Python.
+# Student-Record-Manager
 The program runs in a loop, showing a menu to the user and allowing them to manage student records stored in pyhton list/dict without using any external database.
 
 Run the file by using this command- python .\Student_Manager.py
